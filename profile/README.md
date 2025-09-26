@@ -21,7 +21,6 @@ These are listed below:
 - [ChiantiPy](https://github.com/chianti-atomic/ChiantiPy)- A set of Python  CHIANTI programs developed and maintained by K. Dere
 - - [CHIANTI-IDL](https://github.com/chianti-atomic/chianti-idl)-The official IDL interface to the CHIANTI atomic database. See [this page](https://www.chiantidatabase.org/chianti_download.html) for additional instructions on how to install the IDL tools. Authored mostly by G. Del Zanna and P.R. Young, with some contributions from R.P. Dufresne for version 11
 - [CHIANTI-VIP](https://github.com/chianti-vip/)-A set of additional IDL and Python programs, developed and maintained by G. Del Zanna
-- [ChiantiPy](https://github.com/chianti-atomic/ChiantiPy)- A set of Python  CHIANTI programs developed and maintained by K. Dere
 - [fiasco](https://github.com/wtbarnes/fiasco/)-An alternative Python interface to CHIANTI maintained by W.T. Barnes
 
 ## Acknowledging CHIANTI
